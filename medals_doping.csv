@@ -1838,8 +1838,8 @@ Stockholm (1912),1912.0,Athletics,Athletics,Frederick Harkness Humphreys,GBR,Men
 Stockholm (1912),1912.0,Athletics,Athletics,Hjalmar Andersson,SWE,Men,cross country team men,Gold,1.0,0.0,0.0
 Stockholm (1912),1912.0,Athletics,Athletics,John Eke,SWE,Men,cross country team men,Gold,1.0,0.0,0.0
 Stockholm (1912),1912.0,Athletics,Athletics,Josef Ternström,SWE,Men,cross country team men,Gold,1.0,0.0,0.0
-Stockholm (1912),1912.0,Athletics,Athletics,Jalmari Eskola,FIN,Men,cross country team men,Silver,0.0,1.0,0.0
-Stockholm (1912),1912.0,Athletics,Athletics,Albin Oskar Stenroos,FIN,Men,cross country team men,Silver,0.0,1.0,0.0
+Stockholm (1912),1912.0,Athletics,Athletics,Jalmari Eskola,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Stockholm (1912),1912.0,Athletics,Athletics,Albin Oskar Stenroos,FIN,Men,cross country team men,None,0.0,0.0,0.0
 Stockholm (1912),1912.0,Athletics,Athletics,Gösta Holmer,SWE,Men,decathlon men,Bronze,0.0,0.0,1.0
 Stockholm (1912),1912.0,Athletics,Athletics,Jim Thorpe,USA,Men,decathlon men,Gold,1.0,0.0,0.0
 Stockholm (1912),1912.0,Athletics,Athletics,Hugo K. Wieslander,SWE,Men,decathlon men,Gold,1.0,0.0,0.0
@@ -2524,8 +2524,8 @@ Antwerp (1920),1920.0,Athletics,Athletics,Erik Backman,SWE,Men,cross country ind
 Antwerp (1920),1920.0,Athletics,Athletics,Erik Backman,SWE,Men,cross country team men,Silver,0.0,1.0,0.0
 Antwerp (1920),1920.0,Athletics,Athletics,Hilding Ekman,SWE,Men,cross country team men,Silver,0.0,1.0,0.0
 Antwerp (1920),1920.0,Athletics,Athletics,Gustaf Mattsson,SWE,Men,cross country team men,Silver,0.0,1.0,0.0
-Antwerp (1920),1920.0,Athletics,Athletics,Frederik Teudor Koskenniemi,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
-Antwerp (1920),1920.0,Athletics,Athletics,Heikki Liimatainen,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
+Antwerp (1920),1920.0,Athletics,Athletics,Frederik Teudor Koskenniemi,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Antwerp (1920),1920.0,Athletics,Athletics,Heikki Liimatainen,FIN,Men,cross country team men,None,0.0,0.0,0.0
 Antwerp (1920),1920.0,Athletics,Athletics,Frank Hegarty,GBR,Men,cross country team men,Gold,1.0,0.0,0.0
 Antwerp (1920),1920.0,Athletics,Athletics,Alfred Hubert Nichols,GBR,Men,cross country team men,Gold,1.0,0.0,0.0
 Antwerp (1920),1920.0,Athletics,Athletics,James Wilson,GBR,Men,cross country team men,Gold,1.0,0.0,0.0
@@ -3385,11 +3385,11 @@ Paris (1924),1924.0,Athletics,Athletics,Edward Kirby,USA,Men,3000m team men,Silv
 Paris (1924),1924.0,Athletics,Athletics,Leo Larrivee,USA,Men,3000m team men,Silver,0.0,1.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Joseph Ray,USA,Men,3000m team men,Silver,0.0,1.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Willard Tibbetts,USA,Men,3000m team men,Silver,0.0,1.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Elias Katz,FIN,Men,3000m team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Frej Liewendhal,FIN,Men,3000m team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Ville Ritola,FIN,Men,3000m team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Eino Seppälä,FIN,Men,3000m team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,S. Talja,FIN,Men,3000m team men,Gold,1.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Elias Katz,FIN,Men,3000m team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Frej Liewendhal,FIN,Men,3000m team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Ville Ritola,FIN,Men,3000m team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Eino Seppälä,FIN,Men,3000m team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,S. Talja,FIN,Men,3000m team men,None,0.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Arthur Clark,GBR,Men,3000m team men,Gold,1.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Bernard Macdonald,GBR,Men,3000m team men,Gold,1.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Walter Harold Porter,GBR,Men,3000m team men,Gold,1.0,0.0,0.0
@@ -3438,11 +3438,11 @@ Paris (1924),1924.0,Athletics,Athletics,André Lauseig,FRA,Men,cross country tea
 Paris (1924),1924.0,Athletics,Athletics,Henri Lauvaux,FRA,Men,cross country team men,Silver,0.0,1.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Robert Marchal,FRA,Men,cross country team men,Silver,0.0,1.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Maurice Norland,FRA,Men,cross country team men,Silver,0.0,1.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Eero Berg,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Heikki Liimatainen,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Eino Rastas,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Ville Ritola,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
-Paris (1924),1924.0,Athletics,Athletics,Väinö Jeremias Sipilä,FIN,Men,cross country team men,Gold,1.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Eero Berg,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Heikki Liimatainen,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Eino Rastas,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Ville Ritola,FIN,Men,cross country team men,None,0.0,0.0,0.0
+Paris (1924),1924.0,Athletics,Athletics,Väinö Jeremias Sipilä,FIN,Men,cross country team men,None,0.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,Verne Hobson Booth,USA,Men,cross country team men,Gold,1.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,August Fager,USA,Men,cross country team men,Gold,1.0,0.0,0.0
 Paris (1924),1924.0,Athletics,Athletics,John Gray,USA,Men,cross country team men,Gold,1.0,0.0,0.0
